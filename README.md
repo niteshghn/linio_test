@@ -16,7 +16,3 @@ big fans of PHP, Kotlin and TypeScript
 # Submission
 You can create a public repository on your GitHub account and send the
 link to us, or just send us a zip file.
-
-
-
-switch use 
